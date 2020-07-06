@@ -5,6 +5,10 @@ public class ClassOne {
 	public static void main(String[] args) {
 		
 		System.out.println("ilk commit local masterdan 1 pc den ");
+		System.out.println("ilk degisiklik feature remote branchten to master remot bracnh ");
+		
+		
+		
 	}
 
 }
